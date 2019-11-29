@@ -4,7 +4,7 @@
   "description": "Collection of coding challenges and common algorithms applications in Javascript",
   "main": "",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/daviderama/js-algos/issues"
   },
-  "homepage": "https://github.com/daviderama/js-algos#readme"
+  "homepage": "https://github.com/daviderama/js-algos#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
