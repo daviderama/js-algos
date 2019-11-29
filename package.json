@@ -1,0 +1,19 @@
+{
+  "name": "js-algos",
+  "version": "1.0.0",
+  "description": "Collection of coding challenges and common algorithms applications in Javascript",
+  "main": "",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviderama/js-algos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daviderama/js-algos/issues"
+  },
+  "homepage": "https://github.com/daviderama/js-algos#readme"
+}
